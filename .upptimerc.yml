@@ -13,3 +13,8 @@ status-website: # Status website (optional)
   baseUrl: /websites-checks
   name: Upptime # Status website title
   
+navbar:
+  - title: Status
+    href: /
+  - title: Github
+    href: https://github.com/$OWNER/$REPO
