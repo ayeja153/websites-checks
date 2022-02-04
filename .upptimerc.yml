@@ -7,3 +7,8 @@ sites:
     url: https://www.uci.cu
 assignees: # Users to assign downtime issues (optional)
   - ayeja153
+
+status-website: # Status website (optional)
+  # cname: upptime.js.org # Custom domain CNAME
+  baseUrl: /websites-checks
+  name: Upptime # Status website title
