@@ -7,10 +7,8 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: UCI
+    url: https://www.uci.cu
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -27,5 +25,6 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
+# Upptime also supports notifications, 
+igning issues, and more
 # See https://upptime.js.org/docs/configuration
