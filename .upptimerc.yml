@@ -7,6 +7,10 @@ sites:
     url: https://www.uci.cu
   - name: DownSite
     url: https://down.test.cu
+  - name: Secret
+    url: $GOO
+    
+    
 assignees: # Users to assign downtime issues (optional)
   - ayeja153
 
