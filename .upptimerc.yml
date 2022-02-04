@@ -4,7 +4,7 @@ repo: websites-checks # The name of this repository
 
 sites:
   - name: UCI
-    url: https://www.uci.cu
+    url: https://www23.uci.cu
   - name: DownSite
     url: https://down.test.cu
   - name: Secret
