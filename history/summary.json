@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/www2.uci.cu",
     "slug": "uci",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.80%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 2294,
     "timeDay": 2294,
     "timeWeek": 2294,
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-04": 181
+      "2022-02-04": 182
     }
   },
   {
