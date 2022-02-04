@@ -10,11 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2343,
-    "timeDay": 2343,
-    "timeWeek": 2343,
-    "timeMonth": 2343,
-    "timeYear": 2343,
+    "time": 2290,
+    "timeDay": 2290,
+    "timeWeek": 2290,
+    "timeMonth": 2290,
+    "timeYear": 2290,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "DownSite",
+    "url": "https://down.test.cu",
+    "icon": "https://favicons.githubusercontent.com/down.test.cu",
+    "slug": "down-site",
+    "status": "down",
+    "uptime": "22.72%",
+    "uptimeDay": "22.72%",
+    "uptimeWeek": "22.72%",
+    "uptimeMonth": "22.72%",
+    "uptimeYear": "22.72%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-02-04": 0
+    }
   }
 ]
