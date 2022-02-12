@@ -4,7 +4,7 @@
     "url": "https://www.uci.cu",
     "icon": "https://favicons.githubusercontent.com/www.uci.cu",
     "slug": "uci",
-    "status": "up",
+    "status": "down",
     "uptime": "98.45%",
     "uptimeDay": "97.30%",
     "uptimeWeek": "99.39%",
@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-12": 1628,
+      "2022-02-12": 1644,
       "2022-02-11": 2880,
       "2022-02-10": 2880,
       "2022-02-09": 2880,
